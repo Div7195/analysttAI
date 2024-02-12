@@ -1,0 +1,15 @@
+{
+  "name": "task-library",
+  "version": "1.0.0",
+  "description": "assignment task analysttai",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "div",
+  "license": "ISC",
+  "dependencies": {
+    "snabbdom": "^3.6.2"
+  }
+}

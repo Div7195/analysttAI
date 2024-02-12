@@ -1,0 +1,21 @@
+{
+  "name": "my-app",
+  "version": "0.0.0",
+  "description": "my app",
+  "author": "N1ckool <104719138+Div7195@users.noreply.github.com>",
+  "homepage": "",
+  "license": "ISC",
+  "type": "module",
+  "main": "lib/my-app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/my-app.test.js"
+    
+  }
+}
